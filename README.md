@@ -23,5 +23,9 @@ It helps users track their daily expenses, view total balance, and manage income
 mart-Expense-Tracker/
 │
 ├── index.html 
+
 ├── style.css 
+
 ├── script.js 
+
+
