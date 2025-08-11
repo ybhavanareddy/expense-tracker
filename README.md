@@ -21,6 +21,7 @@ It helps users track their daily expenses, view total balance, and manage income
 
 ## 📂 Project Structure
 mart-Expense-Tracker/
+
 │
 ├── index.html 
 
